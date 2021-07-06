@@ -28,7 +28,12 @@ border-radius: 10px;
     text-align: center;
     line-height: 3;
 }
+
 canvas{
 border:5px solid white;
 border-radius: 30px;
+}
+
+canvas_2{
+    border:5px solid white;
 }
